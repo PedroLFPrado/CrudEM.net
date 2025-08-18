@@ -4,6 +4,9 @@
     <ActiveDebugProfile>https</ActiveDebugProfile>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Update="Forms\FGrafico.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Forms\FormProduto.cs">
       <SubType>Form</SubType>
     </Compile>

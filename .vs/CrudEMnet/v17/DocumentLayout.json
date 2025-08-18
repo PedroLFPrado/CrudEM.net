@@ -3,44 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|c:\\users\\pedro\\onedrive\\documentos\\tocc8\\crudem.net\\crudemnet\\crudemnet\\forms\\formproduto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|solutionrelative:crudemnet\\forms\\formproduto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|c:\\users\\pedro\\onedrive\\documentos\\tocc8\\crudem.net\\crudemnet\\crudemnet\\forms\\formproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|solutionrelative:crudemnet\\forms\\formproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|c:\\users\\pedro\\onedrive\\documentos\\tocc8\\crudem.net\\crudemnet\\crudemnet\\forms\\formproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|solutionrelative:crudemnet\\forms\\formproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|c:\\users\\pedro\\onedrive\\documentos\\tocc8\\crudem.net\\crudemnet\\crudemnet\\forms\\formproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|solutionrelative:crudemnet\\forms\\formproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|c:\\users\\pedro\\onedrive\\documentos\\tocc8\\crudem.net\\crudemnet\\crudemnet\\forms\\formproduto.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
-      "RelativeMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|solutionrelative:crudemnet\\forms\\formproduto.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|c:\\users\\pedro\\onedrive\\documentos\\tocc8\\crudem.net\\crudemnet\\crudemnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|solutionrelative:crudemnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|c:\\users\\pedro\\onedrive\\documentos\\tocc8\\crudem.net\\crudemnet\\crudemnet\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|solutionrelative:crudemnet\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|c:\\users\\pedro\\onedrive\\documentos\\tocc8\\crudem.net\\crudemnet\\crudemnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|solutionrelative:crudemnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|c:\\users\\pedro\\onedrive\\documentos\\tocc8\\crudem.net\\crudemnet\\crudemnet\\data\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|solutionrelative:crudemnet\\data\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|c:\\users\\pedro\\onedrive\\documentos\\tocc8\\crudem.net\\crudemnet\\crudemnet\\crudemnet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|solutionrelative:crudemnet\\crudemnet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|c:\\users\\pedro\\onedrive\\documentos\\tocc8\\crudem.net\\crudemnet\\crudemnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|solutionrelative:crudemnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|c:\\users\\pedro\\onedrive\\documentos\\tocc8\\crudem.net\\crudemnet\\crudemnet\\forms\\formproduto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|solutionrelative:crudemnet\\forms\\formproduto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|c:\\users\\pedro\\onedrive\\documentos\\tocc8\\crudem.net\\crudemnet\\crudemnet\\forms\\fgrafico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|solutionrelative:crudemnet\\forms\\fgrafico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|c:\\users\\pedro\\onedrive\\documentos\\tocc8\\crudem.net\\crudemnet\\crudemnet\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|solutionrelative:crudemnet\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|c:\\users\\pedro\\onedrive\\documentos\\tocc8\\crudem.net\\crudemnet\\crudemnet\\migrations\\20250818164503_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|solutionrelative:crudemnet\\migrations\\20250818164503_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|c:\\users\\pedro\\onedrive\\documentos\\tocc8\\crudem.net\\crudemnet\\crudemnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|solutionrelative:crudemnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|c:\\users\\pedro\\onedrive\\documentos\\tocc8\\crudem.net\\crudemnet\\crudemnet\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|solutionrelative:crudemnet\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|c:\\users\\pedro\\onedrive\\documentos\\tocc8\\crudem.net\\crudemnet\\crudemnet\\crudemnet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|solutionrelative:crudemnet\\crudemnet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -65,29 +73,8 @@
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FormProduto.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\Forms\\FormProduto.Designer.cs",
-              "RelativeDocumentMoniker": "CrudEMnet\\Forms\\FormProduto.Designer.cs",
-              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\Forms\\FormProduto.Designer.cs",
-              "RelativeToolTip": "CrudEMnet\\Forms\\FormProduto.Designer.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAYwNQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T18:07:28.318Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FormProduto.resx",
-              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\Forms\\FormProduto.resx",
-              "RelativeDocumentMoniker": "CrudEMnet\\Forms\\FormProduto.resx",
-              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\Forms\\FormProduto.resx",
-              "RelativeToolTip": "CrudEMnet\\Forms\\FormProduto.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-08-18T18:06:50.705Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
@@ -98,31 +85,44 @@
               "ToolTip": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\Forms\\FormProduto.cs [Projeto]",
               "RelativeToolTip": "CrudEMnet\\Forms\\FormProduto.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T18:06:45.007Z",
+              "WhenOpened": "2025-08-18T19:28:37.935Z",
               "EditorCaption": " [Projeto]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "FormProduto.cs",
               "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\Forms\\FormProduto.cs",
               "RelativeDocumentMoniker": "CrudEMnet\\Forms\\FormProduto.cs",
               "ToolTip": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\Forms\\FormProduto.cs",
               "RelativeToolTip": "CrudEMnet\\Forms\\FormProduto.cs",
-              "ViewState": "AgIAAIsAAAAAAAAAAAAuwJsAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T18:05:42.97Z",
+              "WhenOpened": "2025-08-18T19:00:38.484Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\appsettings.json",
+              "RelativeDocumentMoniker": "CrudEMnet\\appsettings.json",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\appsettings.json",
+              "RelativeToolTip": "CrudEMnet\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-18T16:18:40.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "CrudEMnet\\Data\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\Data\\AppDbContext.cs",
               "RelativeToolTip": "CrudEMnet\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAABNAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-18T16:11:51.287Z",
               "EditorCaption": ""
@@ -130,58 +130,70 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\Program.cs",
-              "RelativeDocumentMoniker": "CrudEMnet\\Program.cs",
-              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\Program.cs",
-              "RelativeToolTip": "CrudEMnet\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T16:34:48.005Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\appsettings.json",
-              "RelativeDocumentMoniker": "CrudEMnet\\appsettings.json",
-              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\appsettings.json",
-              "RelativeToolTip": "CrudEMnet\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-18T16:18:40.752Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CrudEMnet.csproj",
-              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\CrudEMnet.csproj",
-              "RelativeDocumentMoniker": "CrudEMnet\\CrudEMnet.csproj",
-              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\CrudEMnet.csproj",
-              "RelativeToolTip": "CrudEMnet\\CrudEMnet.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-18T15:18:24.423Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "Produto.cs",
               "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\Data\\Produto.cs",
               "RelativeDocumentMoniker": "CrudEMnet\\Data\\Produto.cs",
               "ToolTip": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\Data\\Produto.cs",
               "RelativeToolTip": "CrudEMnet\\Data\\Produto.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-18T16:09:43.162Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\Program.cs",
+              "RelativeDocumentMoniker": "CrudEMnet\\Program.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\Program.cs",
+              "RelativeToolTip": "CrudEMnet\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T16:34:48.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormProduto.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\Forms\\FormProduto.Designer.cs",
+              "RelativeDocumentMoniker": "CrudEMnet\\Forms\\FormProduto.Designer.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\Forms\\FormProduto.Designer.cs",
+              "RelativeToolTip": "CrudEMnet\\Forms\\FormProduto.Designer.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAtwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T18:49:56.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FGrafico.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\Forms\\FGrafico.cs",
+              "RelativeDocumentMoniker": "CrudEMnet\\Forms\\FGrafico.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\Forms\\FGrafico.cs [Projeto]",
+              "RelativeToolTip": "CrudEMnet\\Forms\\FGrafico.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T19:27:09.98Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "CrudEMnet\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "CrudEMnet\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T19:07:49.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "20250818164503_init.cs",
               "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\Migrations\\20250818164503_init.cs",
               "RelativeDocumentMoniker": "CrudEMnet\\Migrations\\20250818164503_init.cs",
@@ -191,6 +203,31 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-18T16:45:03.514Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CrudEMnet\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\appsettings.Development.json",
+              "RelativeToolTip": "CrudEMnet\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-18T18:43:49.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CrudEMnet.csproj",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\CrudEMnet.csproj",
+              "RelativeDocumentMoniker": "CrudEMnet\\CrudEMnet.csproj",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\CrudEMnet.csproj",
+              "RelativeToolTip": "CrudEMnet\\CrudEMnet.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-18T15:18:24.423Z"
             }
           ]
         }

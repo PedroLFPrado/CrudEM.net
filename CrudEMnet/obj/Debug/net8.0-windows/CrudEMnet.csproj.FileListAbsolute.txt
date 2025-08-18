@@ -130,3 +130,6 @@ C:\Users\pedro\OneDrive\Documentos\TOCC8\CrudEM.net\CrudEMnet\CrudEMnet\obj\Debu
 C:\Users\pedro\OneDrive\Documentos\TOCC8\CrudEM.net\CrudEMnet\CrudEMnet\obj\Debug\net8.0-windows\CrudEMnet.pdb
 C:\Users\pedro\OneDrive\Documentos\TOCC8\CrudEM.net\CrudEMnet\CrudEMnet\obj\Debug\net8.0-windows\CrudEMnet.genruntimeconfig.cache
 C:\Users\pedro\OneDrive\Documentos\TOCC8\CrudEM.net\CrudEMnet\CrudEMnet\obj\Debug\net8.0-windows\ref\CrudEMnet.dll
+C:\Users\pedro\OneDrive\Documentos\TOCC8\CrudEM.net\CrudEMnet\CrudEMnet\obj\Debug\net8.0-windows\CrudEMnet.Forms.FGrafico.resources
+C:\Users\pedro\OneDrive\Documentos\TOCC8\CrudEM.net\CrudEMnet\CrudEMnet\obj\Debug\net8.0-windows\CrudEMnet.Forms.FormProduto.resources
+C:\Users\pedro\OneDrive\Documentos\TOCC8\CrudEM.net\CrudEMnet\CrudEMnet\obj\Debug\net8.0-windows\CrudEMnet.csproj.GenerateResource.cache
