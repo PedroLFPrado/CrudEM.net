@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "qhvEP5qTxKQ=",
+  "dgSpecHash": "9ivByVZ3lOs=",
   "success": true,
   "projectFilePath": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\CrudEMnet.csproj",
   "expectedPackageFiles": [
@@ -49,7 +49,9 @@
     "C:\\Users\\pedro\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\pedro\\.nuget\\packages\\system.text.encodings.web\\9.0.8\\system.text.encodings.web.9.0.8.nupkg.sha512",
     "C:\\Users\\pedro\\.nuget\\packages\\system.text.json\\9.0.8\\system.text.json.9.0.8.nupkg.sha512",
-    "C:\\Users\\pedro\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+    "C:\\Users\\pedro\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\system.windows.extensions\\9.0.8\\system.windows.extensions.9.0.8.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\winforms.datavisualization\\1.10.0\\winforms.datavisualization.1.10.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -76,6 +76,14 @@
             "System.Memory": {
               "target": "Package",
               "version": "[4.6.3, )"
+            },
+            "System.Windows.Extensions": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
+            "WinForms.DataVisualization": {
+              "target": "Package",
+              "version": "[1.10.0, )"
             }
           },
           "imports": [
