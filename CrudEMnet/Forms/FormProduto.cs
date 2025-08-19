@@ -182,17 +182,58 @@ namespace CrudEMnet.Forms
             if (e.RowIndex >= 0)
             {
                 DataGridViewRow row = dgvProdutos.Rows[e.RowIndex];
+
+                // Preenche os campos do formulário com os dados da linha selecionada
+                txtCodigo.Text = row.Cells["Codigo"].Value?.ToString() ?? "";
                 txtDescricao.Text = row.Cells["Descricao"].Value?.ToString() ?? "";
-                txtTaxaLucro.Text = row.Cells["TaxaLucro"].Value?.ToString() ?? "";
-                dtpValidade.Value = row.Cells["DataValidade"].Value != null
-                    ? Convert.ToDateTime(row.Cells["DataValidade"].Value)
-                    : DateTime.Now;  
                 txtPreco.Text = row.Cells["Preco"].Value?.ToString() ?? "";
- 
-                
+                txtTaxaLucro.Text = row.Cells["TaxaLucro"].Value?.ToString() ?? "";
+
+                if (row.Cells["DataValidade"].Value != null &&
+                    DateTime.TryParse(row.Cells["DataValidade"].Value.ToString(), out DateTime validade))
+                {
+                    dtpValidade.Value = validade;
+                }
+                else
+                {
+                    dtpValidade.Value = DateTime.Now;
+                }
             }
         }
-        
+
+
+        private void txtCodigo_Leave(object sender, EventArgs e)
+        {
+            if (string.IsNullOrWhiteSpace(txtCodigo.Text))
+                return;
+
+            if (!int.TryParse(txtCodigo.Text, out int codigo))
+            {
+                MessageBox.Show("Digite um código válido.");
+                return;
+            }
+
+            using (var db = new AppDbContext(configuration))
+            {
+                var produto = db.Produtos.Find(codigo);
+                if (produto != null)
+                {
+                    txtDescricao.Text = produto.Descricao;
+                    dtpValidade.Value = produto.DataValidade;
+                    txtPreco.Text = produto.Preco.ToString();
+                    txtTaxaLucro.Text = produto.TaxaLucro.ToString();
+                }
+                else
+                {
+                    MessageBox.Show("Produto não encontrado!");
+                    txtDescricao.Clear();
+                    txtPreco.Clear();
+                    txtTaxaLucro.Clear();
+                    dtpValidade.Value = DateTime.Now;
+                }
+            }
+        }
+
 
         private void txtTaxaLucro_TextChanged(object sender, EventArgs e)
         {
@@ -200,6 +241,11 @@ namespace CrudEMnet.Forms
         }
 
         private void txtPreco_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtCodigo_TextChanged(object sender, EventArgs e)
         {
 
         }

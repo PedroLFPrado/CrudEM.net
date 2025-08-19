@@ -1,21 +1,12 @@
-﻿using CrudEMnet.Data;
-using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
-using System.Windows.Forms.DataVisualization.Charting;
-
+﻿using System.Windows.Forms.DataVisualization.Charting;
+using CrudEMnet.Data;
 
 namespace CrudEMnet.Forms
 {
     public partial class FGrafico : Form
     {
         private readonly IConfiguration configuration;
+
         public FGrafico()
         {
             var builder = new ConfigurationBuilder()
@@ -24,49 +15,68 @@ namespace CrudEMnet.Forms
 
             configuration = builder.Build();
             InitializeComponent();
-            mostrarGrafico();
+            MostrarGrafico();
         }
 
-        public void mostrarGrafico()
+        // O método precisa estar AQUI dentro da classe 👇
+        private void MostrarGrafico()
         {
-            AppDbContext contexto;
-
             try
             {
-                contexto = new AppDbContext(configuration);
+                using var contexto = new AppDbContext(configuration);
                 var lista = contexto.Produtos.ToList();
 
-                chart1.ChartAreas[0].AxisX.Title = "Prazo de Validade";
-                chart1.ChartAreas[0].AxisY.Title = "Taxa de Lucro";
-                chart1.Titles.Clear();
-                chart1.Titles.Add("Lucro x Prazo de Validade");
-
                 chart1.Series.Clear();
+                chart1.ChartAreas[0].AxisX.Title = "Produtos";
+                chart1.ChartAreas[0].AxisY.Title = "Valores";
+                chart1.Titles.Clear();
+                chart1.Titles.Add("Lucro e Prazo de Validade por Produto");
 
+                chart1.ChartAreas[0].AxisX.Interval = 1;
+                chart1.ChartAreas[0].AxisX.LabelStyle.Angle = -45;
+                chart1.ChartAreas[0].AxisX.MajorGrid.Enabled = false;
 
-
-                var serie = new Series("Lucro x Prazo")
+                var serieLucro = new Series("Lucro (R$)")
                 {
-                    ChartType = SeriesChartType.Point,
-                    IsVisibleInLegend = true
+                    ChartType = SeriesChartType.Column,
+                    IsValueShownAsLabel = true,
+                    Color = System.Drawing.Color.Blue,
+                    IsXValueIndexed = true
                 };
 
-                foreach (var obj in lista)
+                var seriePrazo = new Series("Prazo Validade (dias)")
                 {
-                    int prazoValidade = (int)(obj.DataValidade - DateTime.Now).TotalDays;
-                    double taxaLucro = obj.TaxaLucro;
+                    ChartType = SeriesChartType.Column,
+                    IsValueShownAsLabel = true,
+                    Color = System.Drawing.Color.Orange,
+                    IsXValueIndexed = true
+                };
 
-                    // Diagnóstico: Exibe no console os valores
-                    Console.WriteLine($"Produto: {obj.Descricao}, Prazo: {prazoValidade}, Lucro: {taxaLucro}");
+                foreach (var produto in lista)
+                {
+                    int prazoDias = (int)(produto.DataValidade - DateTime.Now).TotalDays;
+                    double lucroReais = produto.PrecoFinal;
 
-                    serie.Points.AddXY(prazoValidade, taxaLucro);
+                    serieLucro.Points.AddXY(produto.Descricao, lucroReais);
+
+                    if (prazoDias < 0)
+                        seriePrazo.Points.AddXY(produto.Descricao, prazoDias);
+                    else
+                        seriePrazo.Points.AddXY(produto.Descricao, 0);
                 }
 
-                chart1.Series.Add(serie);
+                chart1.Series.Add(serieLucro);
+                chart1.Series.Add(seriePrazo);
+
+                chart1.ChartAreas[0].Area3DStyle.Enable3D = false;
+                chart1.ChartAreas[0].AxisY.MajorGrid.LineDashStyle = ChartDashStyle.Dash;
+
+                chart1.Series["Lucro (R$)"]["PointWidth"] = "0.4";
+                chart1.Series["Prazo Validade (dias)"]["PointWidth"] = "0.4";
             }
-            catch (Exception)
+            catch (Exception ex)
             {
-                throw;
+                MessageBox.Show("Erro ao gerar gráfico: " + ex.Message);
             }
         }
     }

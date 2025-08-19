@@ -34,6 +34,7 @@
             label3 = new Label();
             label4 = new Label();
             label5 = new Label();
+            txtCodigo = new TextBox();
             txtDescricao = new TextBox();
             txtPreco = new TextBox();
             txtTaxaLucro = new TextBox();
@@ -93,26 +94,36 @@
             label5.TabIndex = 15;
             label5.Text = "Validade:";
             // 
+            // txtCodigo
+            // 
+            txtCodigo.Location = new Point(31, 198);
+            txtCodigo.Name = "txtCodigo";
+            txtCodigo.PlaceholderText = "Código";
+            txtCodigo.Size = new Size(100, 27);
+            txtCodigo.TabIndex = 0;
+            txtCodigo.TextChanged += txtCodigo_TextChanged;
+            txtCodigo.Leave += txtCodigo_Leave;
+            // 
             // txtDescricao
             // 
-            txtDescricao.Location = new Point(529, 41);
+            txtDescricao.Location = new Point(391, 196);
             txtDescricao.Name = "txtDescricao";
             txtDescricao.PlaceholderText = "Descrição";
-            txtDescricao.Size = new Size(100, 27);
+            txtDescricao.Size = new Size(191, 27);
             txtDescricao.TabIndex = 1;
             // 
             // txtPreco
             // 
-            txtPreco.Location = new Point(268, 41);
+            txtPreco.Location = new Point(137, 196);
             txtPreco.Name = "txtPreco";
             txtPreco.PlaceholderText = "Preço";
-            txtPreco.Size = new Size(100, 27);
+            txtPreco.Size = new Size(142, 27);
             txtPreco.TabIndex = 3;
             txtPreco.TextChanged += txtPreco_TextChanged;
             // 
             // txtTaxaLucro
             // 
-            txtTaxaLucro.Location = new Point(395, 41);
+            txtTaxaLucro.Location = new Point(285, 196);
             txtTaxaLucro.Name = "txtTaxaLucro";
             txtTaxaLucro.PlaceholderText = "Taxa de Lucro";
             txtTaxaLucro.Size = new Size(100, 27);
@@ -121,7 +132,7 @@
             // 
             // dtpValidade
             // 
-            dtpValidade.Location = new Point(268, 104);
+            dtpValidade.Location = new Point(588, 196);
             dtpValidade.Name = "dtpValidade";
             dtpValidade.Size = new Size(200, 27);
             dtpValidade.TabIndex = 2;
@@ -132,15 +143,15 @@
             dgvProdutos.Location = new Point(12, 18);
             dgvProdutos.Name = "dgvProdutos";
             dgvProdutos.RowHeadersWidth = 51;
-            dgvProdutos.Size = new Size(240, 150);
+            dgvProdutos.Size = new Size(776, 150);
             dgvProdutos.TabIndex = 5;
-            dgvProdutos.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvProdutos_CellDoubleClick);
+            dgvProdutos.CellDoubleClick += dgvProdutos_CellDoubleClick;
             // 
             // btnInserir
             // 
-            btnInserir.Location = new Point(20, 200);
+            btnInserir.Location = new Point(331, 248);
             btnInserir.Name = "btnInserir";
-            btnInserir.Size = new Size(75, 23);
+            btnInserir.Size = new Size(124, 36);
             btnInserir.TabIndex = 6;
             btnInserir.Text = "Inserir";
             btnInserir.UseVisualStyleBackColor = true;
@@ -148,9 +159,9 @@
             // 
             // btnAlterar
             // 
-            btnAlterar.Location = new Point(420, 200);
+            btnAlterar.Location = new Point(391, 290);
             btnAlterar.Name = "btnAlterar";
-            btnAlterar.Size = new Size(75, 23);
+            btnAlterar.Size = new Size(103, 43);
             btnAlterar.TabIndex = 7;
             btnAlterar.Text = "Alterar";
             btnAlterar.UseVisualStyleBackColor = true;
@@ -158,9 +169,9 @@
             // 
             // btnExcluir
             // 
-            btnExcluir.Location = new Point(120, 200);
+            btnExcluir.Location = new Point(287, 290);
             btnExcluir.Name = "btnExcluir";
-            btnExcluir.Size = new Size(75, 23);
+            btnExcluir.Size = new Size(98, 43);
             btnExcluir.TabIndex = 8;
             btnExcluir.Text = "Excluir";
             btnExcluir.UseVisualStyleBackColor = true;
@@ -168,9 +179,9 @@
             // 
             // btnListar
             // 
-            btnListar.Location = new Point(220, 200);
+            btnListar.Location = new Point(27, 332);
             btnListar.Name = "btnListar";
-            btnListar.Size = new Size(75, 23);
+            btnListar.Size = new Size(115, 46);
             btnListar.TabIndex = 9;
             btnListar.Text = "Listar";
             btnListar.UseVisualStyleBackColor = true;
@@ -178,9 +189,9 @@
             // 
             // btnGrafico
             // 
-            btnGrafico.Location = new Point(320, 200);
+            btnGrafico.Location = new Point(654, 332);
             btnGrafico.Name = "btnGrafico";
-            btnGrafico.Size = new Size(75, 23);
+            btnGrafico.Size = new Size(118, 46);
             btnGrafico.TabIndex = 10;
             btnGrafico.Text = "Gráfico";
             btnGrafico.UseVisualStyleBackColor = true;
@@ -188,7 +199,8 @@
             // 
             // FormProduto
             // 
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(800, 397);
+            Controls.Add(txtCodigo);
             Controls.Add(txtDescricao);
             Controls.Add(dtpValidade);
             Controls.Add(txtPreco);
@@ -207,6 +219,7 @@
         }
 
         #endregion
+        private System.Windows.Forms.TextBox txtCodigo;
         private System.Windows.Forms.Button btnGrafico;
         private System.Windows.Forms.DataGridView dgvProdutos;
         private System.Windows.Forms.Label label5;
@@ -223,6 +236,4 @@
         private System.Windows.Forms.Button btnAlterar;
         private System.Windows.Forms.Button btnExcluir;
     }
-
-       
 }

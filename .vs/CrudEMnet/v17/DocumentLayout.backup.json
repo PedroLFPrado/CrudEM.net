@@ -1,62 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\",
+  "WorkspaceRootPath": "C:\\Users\\gugac\\Documents\\GitHub\\CrudEM.net\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|c:\\users\\pedro\\onedrive\\documentos\\tocc8\\crudem.net\\crudemnet\\crudemnet\\forms\\formproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|solutionrelative:crudemnet\\forms\\formproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gugac\\Documents\\GitHub\\CrudEM.net\\CrudEMnet\\Forms\\FormProduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CrudEMnet\\Forms\\FormProduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|c:\\users\\pedro\\onedrive\\documentos\\tocc8\\crudem.net\\crudemnet\\crudemnet\\forms\\fgrafico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|solutionrelative:crudemnet\\forms\\fgrafico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|c:\\users\\pedro\\onedrive\\documentos\\tocc8\\crudem.net\\crudemnet\\crudemnet\\forms\\formproduto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|solutionrelative:crudemnet\\forms\\formproduto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|c:\\users\\pedro\\onedrive\\documentos\\tocc8\\crudem.net\\crudemnet\\crudemnet\\forms\\formproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|solutionrelative:crudemnet\\forms\\formproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\crudemnet\\forms\\fgrafico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|solutionrelative:crudemnet\\forms\\fgrafico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|c:\\users\\pedro\\onedrive\\documentos\\tocc8\\crudem.net\\crudemnet\\crudemnet\\forms\\fgrafico.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|solutionrelative:crudemnet\\forms\\fgrafico.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|c:\\users\\pedro\\onedrive\\documentos\\tocc8\\crudem.net\\crudemnet\\crudemnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|solutionrelative:crudemnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|c:\\users\\pedro\\onedrive\\documentos\\tocc8\\crudem.net\\crudemnet\\crudemnet\\data\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|solutionrelative:crudemnet\\data\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|c:\\users\\pedro\\onedrive\\documentos\\tocc8\\crudem.net\\crudemnet\\crudemnet\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|solutionrelative:crudemnet\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|c:\\users\\pedro\\onedrive\\documentos\\tocc8\\crudem.net\\crudemnet\\crudemnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|solutionrelative:crudemnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|c:\\users\\pedro\\onedrive\\documentos\\tocc8\\crudem.net\\crudemnet\\crudemnet\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|solutionrelative:crudemnet\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|c:\\users\\pedro\\onedrive\\documentos\\tocc8\\crudem.net\\crudemnet\\crudemnet\\migrations\\20250818164503_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|solutionrelative:crudemnet\\migrations\\20250818164503_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|c:\\users\\pedro\\onedrive\\documentos\\tocc8\\crudem.net\\crudemnet\\crudemnet\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|solutionrelative:crudemnet\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|c:\\users\\pedro\\onedrive\\documentos\\tocc8\\crudem.net\\crudemnet\\crudemnet\\crudemnet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|C:\\Users\\gugac\\Documents\\GitHub\\CrudEM.net\\crudemnet\\crudemnet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{6D4FE4EF-D7B5-4144-851D-9493BE2B884D}|CrudEMnet\\CrudEMnet.csproj|solutionrelative:crudemnet\\crudemnet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gugac\\Documents\\GitHub\\CrudEM.net\\CrudEMnet\\Forms\\FGrafico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CrudEMnet\\Forms\\FGrafico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gugac\\Documents\\GitHub\\CrudEM.net\\crudemnet\\forms\\formproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:crudemnet\\forms\\formproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gugac\\Documents\\GitHub\\CrudEM.net\\CrudEMnet\\Forms\\FormProduto.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CrudEMnet\\Forms\\FormProduto.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gugac\\Documents\\GitHub\\CrudEM.net\\crudemnet\\forms\\fgrafico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:crudemnet\\forms\\fgrafico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gugac\\Documents\\GitHub\\CrudEM.net\\CrudEMnet\\Forms\\FGrafico.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CrudEMnet\\Forms\\FGrafico.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gugac\\Documents\\GitHub\\CrudEM.net\\CrudEMnet\\Data\\Produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CrudEMnet\\Data\\Produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gugac\\Documents\\GitHub\\CrudEM.net\\CrudEMnet\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CrudEMnet\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gugac\\Documents\\GitHub\\CrudEM.net\\CrudEMnet\\Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CrudEMnet\\Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gugac\\Documents\\GitHub\\CrudEM.net\\CrudEMnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CrudEMnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gugac\\Documents\\GitHub\\CrudEM.net\\CrudEMnet\\Migrations\\AppDbContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CrudEMnet\\Migrations\\AppDbContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gugac\\Documents\\GitHub\\CrudEM.net\\CrudEMnet\\Migrations\\20250818164503_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CrudEMnet\\Migrations\\20250818164503_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gugac\\Documents\\GitHub\\CrudEM.net\\CrudEMnet\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CrudEMnet\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -86,11 +86,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "FGrafico.cs",
-              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\Forms\\FGrafico.cs",
+              "DocumentMoniker": "C:\\Users\\gugac\\Documents\\GitHub\\CrudEM.net\\CrudEMnet\\Forms\\FGrafico.cs",
               "RelativeDocumentMoniker": "CrudEMnet\\Forms\\FGrafico.cs",
-              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\Forms\\FGrafico.cs",
+              "ToolTip": "C:\\Users\\gugac\\Documents\\GitHub\\CrudEM.net\\CrudEMnet\\Forms\\FGrafico.cs",
               "RelativeToolTip": "CrudEMnet\\Forms\\FGrafico.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAA8wD4AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -100,35 +100,34 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "FormProduto.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\Forms\\FormProduto.cs",
+              "Title": "FormProduto.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gugac\\Documents\\GitHub\\CrudEM.net\\CrudEMnet\\Forms\\FormProduto.cs",
               "RelativeDocumentMoniker": "CrudEMnet\\Forms\\FormProduto.cs",
-              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\Forms\\FormProduto.cs [Projeto]",
-              "RelativeToolTip": "CrudEMnet\\Forms\\FormProduto.cs [Projeto]",
+              "ToolTip": "C:\\Users\\gugac\\Documents\\GitHub\\CrudEM.net\\CrudEMnet\\Forms\\FormProduto.cs [Design]",
+              "RelativeToolTip": "CrudEMnet\\Forms\\FormProduto.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-19T11:13:04.504Z",
-              "EditorCaption": " [Projeto]"
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "FormProduto.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\Forms\\FormProduto.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\gugac\\Documents\\GitHub\\CrudEM.net\\CrudEMnet\\Forms\\FormProduto.Designer.cs",
               "RelativeDocumentMoniker": "CrudEMnet\\Forms\\FormProduto.Designer.cs",
-              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\Forms\\FormProduto.Designer.cs",
+              "ToolTip": "C:\\Users\\gugac\\Documents\\GitHub\\CrudEM.net\\CrudEMnet\\Forms\\FormProduto.Designer.cs",
               "RelativeToolTip": "CrudEMnet\\Forms\\FormProduto.Designer.cs",
               "ViewState": "AgIAAGYAAAAAAAAAAAAYwIgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T10:46:22.447Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T10:46:22.447Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "FormProduto.cs",
-              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\Forms\\FormProduto.cs",
+              "DocumentMoniker": "C:\\Users\\gugac\\Documents\\GitHub\\CrudEM.net\\CrudEMnet\\Forms\\FormProduto.cs",
               "RelativeDocumentMoniker": "CrudEMnet\\Forms\\FormProduto.cs",
-              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\Forms\\FormProduto.cs",
+              "ToolTip": "C:\\Users\\gugac\\Documents\\GitHub\\CrudEM.net\\CrudEMnet\\Forms\\FormProduto.cs",
               "RelativeToolTip": "CrudEMnet\\Forms\\FormProduto.cs",
               "ViewState": "AgIAAKkAAAAAAAAAAAAwwM4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -137,36 +136,34 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "FGrafico.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\Forms\\FGrafico.cs",
+              "DocumentMoniker": "C:\\Users\\gugac\\Documents\\GitHub\\CrudEM.net\\CrudEMnet\\Forms\\FGrafico.cs",
               "RelativeDocumentMoniker": "CrudEMnet\\Forms\\FGrafico.cs",
               "ToolTip": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\Forms\\FGrafico.cs [Projeto]",
-              "RelativeToolTip": "CrudEMnet\\Forms\\FGrafico.cs [Projeto]",
+              "RelativeToolTip": "..\\..\\..\\..\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\Forms\\FGrafico.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T23:12:06.326Z",
-              "EditorCaption": " [Projeto]"
+              "WhenOpened": "2025-08-18T23:12:06.326Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "FGrafico.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\Forms\\FGrafico.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\gugac\\Documents\\GitHub\\CrudEM.net\\CrudEMnet\\Forms\\FGrafico.Designer.cs",
               "RelativeDocumentMoniker": "CrudEMnet\\Forms\\FGrafico.Designer.cs",
-              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\Forms\\FGrafico.Designer.cs",
+              "ToolTip": "C:\\Users\\gugac\\Documents\\GitHub\\CrudEM.net\\CrudEMnet\\Forms\\FGrafico.Designer.cs",
               "RelativeToolTip": "CrudEMnet\\Forms\\FGrafico.Designer.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAAAB0AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T22:08:08.044Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-18T22:08:08.044Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Produto.cs",
-              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\Data\\Produto.cs",
+              "DocumentMoniker": "C:\\Users\\gugac\\Documents\\GitHub\\CrudEM.net\\CrudEMnet\\Data\\Produto.cs",
               "RelativeDocumentMoniker": "CrudEMnet\\Data\\Produto.cs",
-              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\Data\\Produto.cs",
+              "ToolTip": "C:\\Users\\gugac\\Documents\\GitHub\\CrudEM.net\\CrudEMnet\\Data\\Produto.cs",
               "RelativeToolTip": "CrudEMnet\\Data\\Produto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -174,11 +171,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\gugac\\Documents\\GitHub\\CrudEM.net\\CrudEMnet\\Program.cs",
               "RelativeDocumentMoniker": "CrudEMnet\\Program.cs",
-              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\Program.cs",
+              "ToolTip": "C:\\Users\\gugac\\Documents\\GitHub\\CrudEM.net\\CrudEMnet\\Program.cs",
               "RelativeToolTip": "CrudEMnet\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -186,11 +183,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\Data\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\gugac\\Documents\\GitHub\\CrudEM.net\\CrudEMnet\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "CrudEMnet\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\gugac\\Documents\\GitHub\\CrudEM.net\\CrudEMnet\\Data\\AppDbContext.cs",
               "RelativeToolTip": "CrudEMnet\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -198,11 +195,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gugac\\Documents\\GitHub\\CrudEM.net\\CrudEMnet\\appsettings.json",
               "RelativeDocumentMoniker": "CrudEMnet\\appsettings.json",
-              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\appsettings.json",
+              "ToolTip": "C:\\Users\\gugac\\Documents\\GitHub\\CrudEM.net\\CrudEMnet\\appsettings.json",
               "RelativeToolTip": "CrudEMnet\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -210,11 +207,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "AppDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\Migrations\\AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\gugac\\Documents\\GitHub\\CrudEM.net\\CrudEMnet\\Migrations\\AppDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "CrudEMnet\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\gugac\\Documents\\GitHub\\CrudEM.net\\CrudEMnet\\Migrations\\AppDbContextModelSnapshot.cs",
               "RelativeToolTip": "CrudEMnet\\Migrations\\AppDbContextModelSnapshot.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -222,11 +219,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "20250818164503_init.cs",
-              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\Migrations\\20250818164503_init.cs",
+              "DocumentMoniker": "C:\\Users\\gugac\\Documents\\GitHub\\CrudEM.net\\CrudEMnet\\Migrations\\20250818164503_init.cs",
               "RelativeDocumentMoniker": "CrudEMnet\\Migrations\\20250818164503_init.cs",
-              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\Migrations\\20250818164503_init.cs",
+              "ToolTip": "C:\\Users\\gugac\\Documents\\GitHub\\CrudEM.net\\CrudEMnet\\Migrations\\20250818164503_init.cs",
               "RelativeToolTip": "CrudEMnet\\Migrations\\20250818164503_init.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -234,11 +231,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\gugac\\Documents\\GitHub\\CrudEM.net\\CrudEMnet\\appsettings.Development.json",
               "RelativeDocumentMoniker": "CrudEMnet\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\gugac\\Documents\\GitHub\\CrudEM.net\\CrudEMnet\\appsettings.Development.json",
               "RelativeToolTip": "CrudEMnet\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -246,11 +243,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 1,
               "Title": "CrudEMnet.csproj",
-              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\CrudEMnet.csproj",
+              "DocumentMoniker": "C:\\Users\\gugac\\Documents\\GitHub\\CrudEM.net\\CrudEMnet\\CrudEMnet.csproj",
               "RelativeDocumentMoniker": "CrudEMnet\\CrudEMnet.csproj",
-              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\CrudEMnet.csproj",
+              "ToolTip": "C:\\Users\\gugac\\Documents\\GitHub\\CrudEM.net\\CrudEMnet\\CrudEMnet.csproj",
               "RelativeToolTip": "CrudEMnet\\CrudEMnet.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",

@@ -1,1 +1,11 @@
-{"Version":1,"Hash":"dd7uHcL2sRMJwCYJA/eOpEcFhDIwNJnQhbVeh6dBq4M=","Source":"CrudEMnet","BasePath":"_content/CrudEMnet","Mode":"Default","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}
+{
+  "Version": 1,
+  "Hash": "e02JBPg6YlEd4NWInv34Fq+QHUO9Lmsw/uCZ2mdPm0g=",
+  "Source": "CrudEMnet",
+  "BasePath": "_content/CrudEMnet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

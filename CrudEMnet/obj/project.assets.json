@@ -3091,23 +3091,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\pedro\\.nuget\\packages\\": {},
+    "C:\\Users\\gugac\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\CrudEMnet.csproj",
+      "projectUniqueName": "C:\\Users\\gugac\\Documents\\GitHub\\CrudEM.net\\CrudEMnet\\CrudEMnet.csproj",
       "projectName": "CrudEMnet",
-      "projectPath": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\CrudEMnet.csproj",
-      "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOCC8\\CrudEM.net\\CrudEMnet\\CrudEMnet\\obj\\",
+      "projectPath": "C:\\Users\\gugac\\Documents\\GitHub\\CrudEM.net\\CrudEMnet\\CrudEMnet.csproj",
+      "packagesPath": "C:\\Users\\gugac\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gugac\\Documents\\GitHub\\CrudEM.net\\CrudEMnet\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\gugac\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3116,7 +3116,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
