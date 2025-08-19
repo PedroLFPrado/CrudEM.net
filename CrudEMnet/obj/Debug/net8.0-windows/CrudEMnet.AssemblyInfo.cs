@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CrudEMnet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ce7d25129b906c3e1a0180228cd7aa8282e9d4d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dfdd87d5a9524a2cb1411fc30df6cfbb36e2b7e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("CrudEMnet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CrudEMnet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

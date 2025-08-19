@@ -134,6 +134,7 @@
             dgvProdutos.RowHeadersWidth = 51;
             dgvProdutos.Size = new Size(240, 150);
             dgvProdutos.TabIndex = 5;
+            dgvProdutos.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvProdutos_CellDoubleClick);
             // 
             // btnInserir
             // 

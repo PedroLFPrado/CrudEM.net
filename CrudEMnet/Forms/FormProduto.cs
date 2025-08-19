@@ -130,14 +130,16 @@ namespace CrudEMnet.Forms
             using (var db = new AppDbContext(configuration))
             {
                 var lista = db.Produtos.ToList()
-                    .Select(p => new
-                    {
-                        p.Codigo,
-                        p.Descricao,
-                        p.DataValidade,
-                        PrecoFinal = p.PrecoFinal,
-                        PrazoValidade = p.PrazoValidade
-                    }).ToList();
+                  .Select(p => new
+                  {
+                      p.Codigo,
+                      p.Descricao,
+                      p.DataValidade,
+                      p.Preco,
+                      p.TaxaLucro,
+                      PrecoFinal = p.PrecoFinal,
+                      PrazoValidade = p.PrazoValidade
+                  }).ToList();
 
                 dgvProdutos.DataSource = lista;
             }
@@ -180,11 +182,17 @@ namespace CrudEMnet.Forms
             if (e.RowIndex >= 0)
             {
                 DataGridViewRow row = dgvProdutos.Rows[e.RowIndex];
-                txtDescricao.Text = row.Cells["Descricao"].Value.ToString();
-                dtpValidade.Value = Convert.ToDateTime(row.Cells["DataValidade"].Value);
-                txtPreco.Text = row.Cells["PrecoFinal"].Value.ToString();
+                txtDescricao.Text = row.Cells["Descricao"].Value?.ToString() ?? "";
+                txtTaxaLucro.Text = row.Cells["TaxaLucro"].Value?.ToString() ?? "";
+                dtpValidade.Value = row.Cells["DataValidade"].Value != null
+                    ? Convert.ToDateTime(row.Cells["DataValidade"].Value)
+                    : DateTime.Now;  
+                txtPreco.Text = row.Cells["Preco"].Value?.ToString() ?? "";
+ 
+                
             }
         }
+        
 
         private void txtTaxaLucro_TextChanged(object sender, EventArgs e)
         {
