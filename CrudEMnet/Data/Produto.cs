@@ -4,6 +4,8 @@
     using System.ComponentModel.DataAnnotations;
     using System.ComponentModel.DataAnnotations.Schema;
 
+    // Ex de TOCC8 feito por Gustavo Camargo e Pedro Lemos 
+
     [Table("produto")]
     public class Produto
     {
@@ -15,7 +17,12 @@
         public string Descricao { get; set; }
 
         [Column("datavalidade")]
-        public DateTime DataValidade { get; set; }
+        public DateTime DataValidade
+        {
+            get => _dataValidade;
+            set => _dataValidade = DateTime.SpecifyKind(value, DateTimeKind.Utc);
+        }
+        private DateTime _dataValidade;
 
         [Column("preco")]
         public double Preco { get; set; }
@@ -23,7 +30,7 @@
         [Column("taxalucro")]
         public double TaxaLucro { get; set; }
 
-        // Não mapeados (calculados em memória)
+        
         [NotMapped]
         public double PrecoFinal => Preco + (Preco * TaxaLucro / 100);
 

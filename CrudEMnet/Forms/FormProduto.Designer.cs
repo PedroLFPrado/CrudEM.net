@@ -1,5 +1,6 @@
 ﻿namespace CrudEMnet.Forms
 {
+    // Ex de TOCC8 feito por Gustavo Camargo e Pedro Lemos
     partial class FormProduto
     {
         /// <summary>
@@ -28,7 +29,11 @@
         /// </summary>
         private void InitializeComponent()
         {
-            txtCodigo = new TextBox();
+            label1 = new Label();
+            label2 = new Label();
+            label3 = new Label();
+            label4 = new Label();
+            label5 = new Label();
             txtDescricao = new TextBox();
             txtPreco = new TextBox();
             txtTaxaLucro = new TextBox();
@@ -42,37 +47,81 @@
             ((System.ComponentModel.ISupportInitialize)dgvProdutos).BeginInit();
             SuspendLayout();
             // 
-            // txtCodigo
+            // label1
             // 
-            txtCodigo.Location = new Point(268, 21);
-            txtCodigo.Name = "txtCodigo";
-            txtCodigo.Size = new Size(100, 27);
-            txtCodigo.TabIndex = 0;
+            label1.AutoSize = true;
+            label1.Location = new Point(268, 3);
+            label1.Name = "label1";
+            label1.Size = new Size(57, 20);
+            label1.TabIndex = 11;
+            label1.Text = "Código:";
+            label1.TextAlign = ContentAlignment.MiddleRight;
+            // 
+            // label2
+            // 
+            label2.AutoSize = true;
+            label2.Location = new Point(268, 123);
+            label2.Name = "label2";
+            label2.Size = new Size(75, 20);
+            label2.TabIndex = 12;
+            label2.Text = "Descrição:";
+            // 
+            // label3
+            // 
+            label3.AutoSize = true;
+            label3.Location = new Point(420, 3);
+            label3.Name = "label3";
+            label3.Size = new Size(49, 20);
+            label3.TabIndex = 13;
+            label3.Text = "Preço:";
+            // 
+            // label4
+            // 
+            label4.AutoSize = true;
+            label4.Location = new Point(553, 67);
+            label4.Name = "label4";
+            label4.Size = new Size(77, 20);
+            label4.TabIndex = 14;
+            label4.Text = "Taxa Lucro:";
+            // 
+            // label5
+            // 
+            label5.AutoSize = true;
+            label5.Location = new Point(268, 67);
+            label5.Name = "label5";
+            label5.Size = new Size(74, 20);
+            label5.TabIndex = 15;
+            label5.Text = "Validade:";
             // 
             // txtDescricao
             // 
-            txtDescricao.Location = new Point(268, 141);
+            txtDescricao.Location = new Point(529, 41);
             txtDescricao.Name = "txtDescricao";
+            txtDescricao.PlaceholderText = "Descrição";
             txtDescricao.Size = new Size(100, 27);
             txtDescricao.TabIndex = 1;
             // 
             // txtPreco
             // 
-            txtPreco.Location = new Point(420, 21);
+            txtPreco.Location = new Point(268, 41);
             txtPreco.Name = "txtPreco";
+            txtPreco.PlaceholderText = "Preço";
             txtPreco.Size = new Size(100, 27);
             txtPreco.TabIndex = 3;
+            txtPreco.TextChanged += txtPreco_TextChanged;
             // 
             // txtTaxaLucro
             // 
-            txtTaxaLucro.Location = new Point(553, 85);
+            txtTaxaLucro.Location = new Point(395, 41);
             txtTaxaLucro.Name = "txtTaxaLucro";
+            txtTaxaLucro.PlaceholderText = "Taxa de Lucro";
             txtTaxaLucro.Size = new Size(100, 27);
             txtTaxaLucro.TabIndex = 4;
+            txtTaxaLucro.TextChanged += txtTaxaLucro_TextChanged;
             // 
             // dtpValidade
             // 
-            dtpValidade.Location = new Point(268, 85);
+            dtpValidade.Location = new Point(268, 104);
             dtpValidade.Name = "dtpValidade";
             dtpValidade.Size = new Size(200, 27);
             dtpValidade.TabIndex = 2;
@@ -80,7 +129,7 @@
             // dgvProdutos
             // 
             dgvProdutos.ColumnHeadersHeight = 29;
-            dgvProdutos.Location = new Point(0, 0);
+            dgvProdutos.Location = new Point(12, 18);
             dgvProdutos.Name = "dgvProdutos";
             dgvProdutos.RowHeadersWidth = 51;
             dgvProdutos.Size = new Size(240, 150);
@@ -139,7 +188,6 @@
             // FormProduto
             // 
             ClientSize = new Size(800, 450);
-            Controls.Add(txtCodigo);
             Controls.Add(txtDescricao);
             Controls.Add(dtpValidade);
             Controls.Add(txtPreco);
@@ -160,7 +208,6 @@
         #endregion
         private System.Windows.Forms.Button btnGrafico;
         private System.Windows.Forms.DataGridView dgvProdutos;
-        private System.Windows.Forms.TextBox txtCodigo;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.TextBox txtTaxaLucro;
         private System.Windows.Forms.Label label4;

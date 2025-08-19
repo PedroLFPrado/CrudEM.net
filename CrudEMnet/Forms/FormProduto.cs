@@ -24,6 +24,7 @@ namespace CrudEMnet.Forms
             configuration = builder.Build();
             InitializeComponent();
         }
+        // Inserir
         private void btnInserir_Click(object sender, EventArgs e)
         {
             using (var db = new AppDbContext(configuration))
@@ -44,48 +45,81 @@ namespace CrudEMnet.Forms
             Listar();
         }
 
+        // Alterar
+
         private void btnAlterar_Click(object sender, EventArgs e)
         {
-            if (int.TryParse(txtCodigo.Text, out int codigo))
+            if (dgvProdutos.SelectedRows.Count == 0)
+            {
+                MessageBox.Show("Selecione pelo menos um produto na tabela para alterar.");
+                return;
+            }
+
+            try
             {
                 using (var db = new AppDbContext(configuration))
                 {
-                    var produto = db.Produtos.Find(codigo);
-                    if (produto != null)
+                    foreach (DataGridViewRow row in dgvProdutos.SelectedRows)
                     {
-                        produto.Descricao = txtDescricao.Text;
-                        produto.DataValidade = dtpValidade.Value;
-                        produto.Preco = double.Parse(txtPreco.Text);
-                        produto.TaxaLucro = double.Parse(txtTaxaLucro.Text);
-
-                        db.SaveChanges();
-                        MessageBox.Show("Produto alterado com sucesso!");
-                        Listar();
+                        if (row.Cells["Codigo"].Value is int codigo)
+                        {
+                            var produto = db.Produtos.Find(codigo);
+                            if (produto != null)
+                            {
+                                produto.Descricao = txtDescricao.Text;
+                                produto.DataValidade = dtpValidade.Value;
+                                produto.Preco = double.Parse(txtPreco.Text);
+                                produto.TaxaLucro = double.Parse(txtTaxaLucro.Text);
+                            }
+                        }
                     }
+                    db.SaveChanges();
                 }
+                MessageBox.Show("Produto(s) alterado(s) com sucesso!");
+                Listar();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Erro ao alterar: {ex.Message}");
             }
         }
 
-        // ✅ Excluir
+        //Excluir
         private void btnExcluir_Click(object sender, EventArgs e)
         {
-            if (int.TryParse(txtCodigo.Text, out int codigo))
+            if (dgvProdutos.SelectedRows.Count == 0)
+            {
+                MessageBox.Show("Selecione pelo menos um produto na tabela para excluir.");
+                return;
+            }
+
+            try
             {
                 using (var db = new AppDbContext(configuration))
                 {
-                    var produto = db.Produtos.Find(codigo);
-                    if (produto != null)
+                    foreach (DataGridViewRow row in dgvProdutos.SelectedRows)
                     {
-                        db.Produtos.Remove(produto);
-                        db.SaveChanges();
-                        MessageBox.Show("Produto excluído com sucesso!");
-                        Listar();
+                        if (row.Cells["Codigo"].Value is int codigo)
+                        {
+                            var produto = db.Produtos.Find(codigo);
+                            if (produto != null)
+                            {
+                                db.Produtos.Remove(produto);
+                            }
+                        }
                     }
+                    db.SaveChanges();
                 }
+                MessageBox.Show("Produto(s) excluído(s) com sucesso!");
+                Listar();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Erro ao excluir: {ex.Message}");
             }
         }
 
-        // ✅ Listar todos
+        //Listar todos
         private void btnListar_Click(object sender, EventArgs e)
         {
             Listar();
@@ -109,26 +143,7 @@ namespace CrudEMnet.Forms
             }
         }
 
-        // ✅ Buscar pelo código (evento Leave)
-        private void txtCodigo_Leave(object sender, EventArgs e)
-        {
-            if (int.TryParse(txtCodigo.Text, out int codigo))
-            {
-                using (var db = new AppDbContext(configuration))
-                {
-                    var produto = db.Produtos.Find(codigo);
-                    if (produto != null)
-                    {
-                        txtDescricao.Text = produto.Descricao;
-                        dtpValidade.Value = produto.DataValidade;
-                        txtPreco.Text = produto.Preco.ToString();
-                        txtTaxaLucro.Text = produto.TaxaLucro.ToString();
-                    }
-                }
-            }
-        }
-
-        // ✅ Filtrar por descrição (KeyUp)
+        //Filtrar por descrição
         private void txtDescricao_KeyUp(object sender, KeyEventArgs e)
         {
             using (var db = new AppDbContext(configuration))
@@ -159,17 +174,26 @@ namespace CrudEMnet.Forms
 
         }
 
-        // ✅ Duplo clique no DataGridView
+        // Duplo clique no DataGridView
         private void dgvProdutos_CellDoubleClick(object sender, DataGridViewCellEventArgs e)
         {
             if (e.RowIndex >= 0)
             {
                 DataGridViewRow row = dgvProdutos.Rows[e.RowIndex];
-                txtCodigo.Text = row.Cells["Codigo"].Value.ToString();
                 txtDescricao.Text = row.Cells["Descricao"].Value.ToString();
                 dtpValidade.Value = Convert.ToDateTime(row.Cells["DataValidade"].Value);
                 txtPreco.Text = row.Cells["PrecoFinal"].Value.ToString();
             }
+        }
+
+        private void txtTaxaLucro_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtPreco_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -1,5 +1,6 @@
 ﻿namespace CrudEMnet.Forms
 {
+    // Ex de TOCC8 feito por Gustavo Camargo e Pedro Lemos
     partial class FGrafico
     {
         /// <summary>

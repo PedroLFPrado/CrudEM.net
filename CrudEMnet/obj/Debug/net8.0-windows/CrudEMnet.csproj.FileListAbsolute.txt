@@ -133,3 +133,8 @@ C:\Users\pedro\OneDrive\Documentos\TOCC8\CrudEM.net\CrudEMnet\CrudEMnet\obj\Debu
 C:\Users\pedro\OneDrive\Documentos\TOCC8\CrudEM.net\CrudEMnet\CrudEMnet\obj\Debug\net8.0-windows\CrudEMnet.Forms.FGrafico.resources
 C:\Users\pedro\OneDrive\Documentos\TOCC8\CrudEM.net\CrudEMnet\CrudEMnet\obj\Debug\net8.0-windows\CrudEMnet.Forms.FormProduto.resources
 C:\Users\pedro\OneDrive\Documentos\TOCC8\CrudEM.net\CrudEMnet\CrudEMnet\obj\Debug\net8.0-windows\CrudEMnet.csproj.GenerateResource.cache
+C:\Users\pedro\OneDrive\Documentos\TOCC8\CrudEM.net\CrudEMnet\CrudEMnet\bin\Debug\net8.0-windows\libman.json
+C:\Users\pedro\OneDrive\Documentos\TOCC8\CrudEM.net\CrudEMnet\CrudEMnet\bin\Debug\net8.0-windows\System.Windows.Extensions.dll
+C:\Users\pedro\OneDrive\Documentos\TOCC8\CrudEM.net\CrudEMnet\CrudEMnet\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\pedro\OneDrive\Documentos\TOCC8\CrudEM.net\CrudEMnet\CrudEMnet\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+C:\Users\pedro\OneDrive\Documentos\TOCC8\CrudEM.net\CrudEMnet\CrudEMnet\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Windows.Extensions.dll

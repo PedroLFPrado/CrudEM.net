@@ -2,6 +2,7 @@
 using Microsoft.Extensions.Configuration;
 using System;
 
+// Ex de TOCC8 feito por Gustavo Camargo e Pedro Lemos
 
 namespace CrudEMnet.Data
 {

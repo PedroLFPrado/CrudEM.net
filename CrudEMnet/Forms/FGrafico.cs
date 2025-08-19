@@ -42,6 +42,9 @@ namespace CrudEMnet.Forms
                 chart1.Titles.Add("Lucro x Prazo de Validade");
 
                 chart1.Series.Clear();
+
+
+
                 var serie = new Series("Lucro x Prazo")
                 {
                     ChartType = SeriesChartType.Point,
@@ -50,9 +53,11 @@ namespace CrudEMnet.Forms
 
                 foreach (var obj in lista)
                 {
-                    // Calcula PrazoValidade em dias
                     int prazoValidade = (int)(obj.DataValidade - DateTime.Now).TotalDays;
                     double taxaLucro = obj.TaxaLucro;
+
+                    // Diagnóstico: Exibe no console os valores
+                    Console.WriteLine($"Produto: {obj.Descricao}, Prazo: {prazoValidade}, Lucro: {taxaLucro}");
 
                     serie.Points.AddXY(prazoValidade, taxaLucro);
                 }
